@@ -6,6 +6,7 @@
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="rails" width = "40" heigth = "40" style = "max-width:100%;"></img>
 <img src = "https://img.icons8.com/color/2x/microsoft-sql-server.png" width = "40" heigth = "40" style = "max-width:100%;"></img>
 <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width = "40" heigth = "40" style = "max-width:100%;"></img>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width = "40" heigth = "40" style = "max-width:100%;"></img>
 
 ##
 
