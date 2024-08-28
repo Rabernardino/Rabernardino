@@ -19,6 +19,7 @@
 ![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=Power-BI)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 ![GCP](https://img.shields.io/badge/-GoogleCloud-black?style=flat-square&logo=Google-Cloud)
+![Microsolf SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-black?style=flat-square&logo=microsoft-server)
 
 
 #### Desenvolvimento:
