@@ -25,6 +25,7 @@
 #### Desenvolvimento:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Pytest](https://img.shields.io/badge/-Pytest-black?style=flat-square&logo=Pytest)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-black?style=flat-square&logo=SQLAlchemy)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
