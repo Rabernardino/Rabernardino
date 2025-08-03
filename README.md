@@ -20,6 +20,8 @@
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
 ![GCP](https://img.shields.io/badge/-GoogleCloud-black?style=flat-square&logo=Google-Cloud)
 ![Microsolf SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-black?style=flat-square&logo=microsoft-server)
+![dbt](https://img.shields.io/badge/-dbt-black?style=flat-square&logo=dbt)
+![Snowflake](https://img.shields.io/badge/-snowflake-black?style=flat-square&logo=snowflake)
 
 
 #### Desenvolvimento:
