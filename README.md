@@ -22,6 +22,7 @@
 ![Microsolf SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-black?style=flat-square&logo=microsoft-server)
 ![dbt](https://img.shields.io/badge/-dbt-black?style=flat-square&logo=dbt)
 ![Snowflake](https://img.shields.io/badge/-snowflake-black?style=flat-square&logo=snowflake)
+![ApacheSpark](https://img.shields.io/badge/-apachespark-black?style=flat-square&logo=apachespark)
 
 
 #### Desenvolvimento:
