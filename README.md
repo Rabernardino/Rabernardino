@@ -9,7 +9,7 @@
 
 **Data Science Specialist**, I apply data cleaning, statistical analysis, and modeling techniques to transform large datasets into actionable business insights. By building descriptive and predictive models, I play a strategic and essential role in guiding projects and providing decisive data-driven support.
 
-#### Ciência de dados:
+#### Dados:
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
 ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
